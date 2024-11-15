@@ -70,3 +70,32 @@ li {
 .p3:a {
   color:red;
 }
+
+.p4 {
+  font-family: Arial Black, Gadget, sans-serif;
+  text-align: center;
+  color: DarkOrange; 
+  font-size: 30px;
+}
+
+.p5 {
+  font-family: Arial Black, Gadget, sans-serif;
+  text-align: center; 
+  color: DeepSkyBlue; 
+  font-size: 30px;
+}
+
+.p6 {
+  font-family: Arial Black, Gadget, sans-serif;
+  text-align: center; 
+  color: DodgerBlue; 
+  font-size: 30px;
+}
+
+h3 {
+  text-align: center;
+	color: DodgerBlue;
+	font-size: 300%;
+	font-family: Arial Black;
+	border: 2px solid #FFFF00;
+}

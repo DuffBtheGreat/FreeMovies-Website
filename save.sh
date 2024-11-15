@@ -2,4 +2,4 @@
 
 git add .
 git commit -m "Quick update"
-git pull origin main
+git pull origin master

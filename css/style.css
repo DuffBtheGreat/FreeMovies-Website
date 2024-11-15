@@ -40,15 +40,33 @@ li {
   float: left;
 }
 
-p {
-  font-family:Arial Black, Gadget, sans-serif;
+.p1 {
+  font-family: Arial Black, Gadget, sans-serif;
   text-align: left; 
   color: DarkOrange; 
   font-size: 30px;
 }
 
+.p2 {
+  font-family: Arial Black, Gadget, sans-serif;
+  text-align: center; 
+  color: DarkOrange; 
+  font-size: 30px;
+}
+
 .desby {
-  font-family:Arial Black, Gadget, sans-serif;
-  text-align:right; color: purple; 
-  font-size:30px;
+  font-family: Arial Black, Gadget, sans-serif;
+  text-align: right; 
+  color: purple; 
+  font-size: 30px;
+}
+
+.p3 {
+  font-family: verdana;
+  font-size: 100%;
+  color: red;
+}
+
+.p3:a {
+  color:red;
 }

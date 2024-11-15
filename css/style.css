@@ -99,3 +99,8 @@ h3 {
 	font-family: Arial Black;
 	border: 2px solid #FFFF00;
 }
+
+td {
+  color: orange; 
+  font-family: castellar;
+}

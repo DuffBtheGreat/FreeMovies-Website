@@ -1,0 +1,54 @@
+body {
+  background-image: url('../images/bgimg.jpg'); 
+  background-size: 1500px 10000px;
+}
+
+h1 {
+  font-family: verdana;
+  font-size: 350%;
+  color: red;
+  text-align: center;
+  border: 2px solid Tomato;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: LightGray;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px 20px;
+  text-decoration: none;
+}
+  
+li a:hover:not(.active) {
+  background-color: DodgerBlue;
+}
+  
+.active {
+  background-color: none;
+}
+
+li {
+  float: left;
+}
+
+p {
+  font-family:Arial Black, Gadget, sans-serif;
+  text-align: left; 
+  color: DarkOrange; 
+  font-size: 30px;
+}
+
+.desby {
+  font-family:Arial Black, Gadget, sans-serif;
+  text-align:right; color: purple; 
+  font-size:30px;
+}
